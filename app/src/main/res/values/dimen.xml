@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_margin">16dp</dimen>
+    <dimen name="city_text_size">24sp</dimen>
+    <dimen name="main_temperature_size">38sp</dimen>
+    <dimen name="secondary_temperature_size">18sp</dimen>
+</resources>
